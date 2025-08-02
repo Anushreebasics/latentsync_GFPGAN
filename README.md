@@ -1,5 +1,7 @@
 # LatentSync with GFPGAN Super-Resolution
 
+
+
 This repository demonstrates how to integrate GFPGAN super-resolution into the [LatentSync](https://github.com/bytedance/LatentSync) lipsync pipeline. The integration automatically applies GFPGAN enhancement to the generated video frames only when their resolution is lower than the original input video frames.
 
 ## Table of Contents
